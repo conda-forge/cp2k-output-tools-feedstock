@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/cp2k-output-tools-{{ version }}.tar.gz
-  sha256: c71786a6e0e99f1d706eea355977bc5d6771b40cb7d84afc7921ee9d5e9a0420
+  sha256: 336f98b2d44dbf7dd618b7bc7791af11b87d23e77a4cb90ae4042bdf1bced9f6
 
 build:
   noarch: python
